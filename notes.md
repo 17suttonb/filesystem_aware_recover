@@ -38,7 +38,7 @@ Files: `/root/boot-drive.img` (466 GiB apparent, ~29 GiB actual on-disk / sparse
 `/root/boot-drive.map` (+ a `.map.bak` from a few minutes earlier — already being
 careful).
 
-```
+```txt
 $ ddrescuelog -t boot-drive.map
    current pos:   12129 MB,  current status: trimming
 mapfile extent:  500107 MB,  in      11 area(s)
